@@ -2,4 +2,4 @@
 another project
 
 
-Add some stupid text here. Let us see what will happen.
+Do some other changes and delete the previous edit.
